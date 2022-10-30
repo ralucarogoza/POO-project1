@@ -1,7 +1,6 @@
 # POO-lab
 În programul meu am 2 clase: Carte și Librărie. 
-* Operatorul += l-am folosit pentru a scumpi o carte cu un anumit pret, iar operatorul -= pentru a ieftini o carte. <br/>
-* Pentru operatorii + și – am făcut același lucru. Operatorul == l-am utilizat pentru a verifica dacă 2 cărți sunt identice (am verificat și prețul gândindu-mă că în realitate 2 cărți pot avea aceeași denumire, același autor, dar pot avea prețuri diferite, fiind de la edituri diferite), iar != pentru a verifica dacă 2 cărți au autori diferiți. <br/>
+* Operatorul += l-am folosit pentru a scumpi o carte cu un anumit pret, iar operatorul -= pentru a ieftini o carte. Pentru operatorii + și – am făcut același lucru.<br/> * Operatorul == l-am utilizat pentru a verifica dacă 2 cărți sunt identice (am verificat și prețul gândindu-mă că în realitate 2 cărți pot avea aceeași denumire, același autor, dar pot avea prețuri diferite, fiind de la edituri diferite), iar != pentru a verifica dacă 2 cărți au autori diferiți. <br/>
 * Pentru clasa Librarie am folosit functia adaugaCarte pentru a adăuga cărți într-o librărie.<br/>
 * Funcția actualizareRating modifică rating-ul unei anumite cărți când cineva îi acordă un nou rating. <br/>
 * Funcția carteMaiBună cu cei 2 parametri 2 obiecte de tip Carte afișează care dintre cele 2 cărți este mai bună pe baza rating-ului, iar în cazul în care au același rating, le afișează pe ambele. <br/>
